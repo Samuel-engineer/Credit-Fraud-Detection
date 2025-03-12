@@ -32,17 +32,15 @@ Assurez-vous que vous avez Python 3.7 ou une version plus récente et **pip** in
 ### Cloner le projet
 
 Clonez ce dépôt sur votre machine locale avec la commande suivante :
-
-    ```bash
-    git clone https://github.com/votre-utilisateur/Credit-Fraud-Detection.git
-    cd Credit-Fraud-Detection
-
+```bash
+git clone https://github.com/votre-utilisateur/Credit-Fraud-Detection.git
+cd Credit-Fraud-Detection
+```
 Installer les dépendances
 Exécutez la commande suivante pour installer les dépendances nécessaires :
-    
-        ``` bash
-        pip install -r requirements.txt
-    
+``` bash
+pip install -r requirements.txt
+```
 🚀 Lancer l'application
 Une fois les dépendances installées, vous pouvez lancer l'application Streamlit en exécutant :
 
