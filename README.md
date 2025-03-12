@@ -43,6 +43,6 @@ pip install -r requirements.txt
 ```
 🚀 Lancer l'application
 Une fois les dépendances installées, vous pouvez lancer l'application Streamlit en exécutant :
-
-        ```bash
-        streamlit run app.py
+```bash
+streamlit run app.py
+```
